@@ -1,10 +1,6 @@
 html, body {
   margin: 0;
   padding: 0;
-  overflow: hidden;
-  user-select: none;
-  touch-action: none;
-  -webkit-user-select: none;
   background: #192a56;
 }
 canvas {
