@@ -63,7 +63,7 @@ function draw() {
   noStroke();
   translate(windowWidth/2-duneLength*(DUNE_COUNT/2), windowHeight/2)
   const DUNE_COLORS = ["#ffeaa7", "#82589F", "#7ed6df", "#dff9fb", "#b8e994", "#e55039"];
-  const DUNE_LABELS = ["Laisvalaikis", "Tikslai", "Tėvai", "Draugai", "Išvaizda", "Laimė"]
+  const DUNE_LABELS = ["Laisvalaikis", "Tėvai", "Draugai", "Išvaizda", "Laimė", "Romantika"]
   const DUNE_CONTROL_POINTS = {
     0: [10, 30],
     1: [50, 60],
