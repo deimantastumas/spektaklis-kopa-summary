@@ -40,7 +40,7 @@ function draw() {
   text("Spektaklis: Smėlio dėžėje", windowWidth/2, windowHeight/10);
   textSize(30);
   textFont(fontRegular);
-  text("KAIP PER PASKUTINIUS PENKIS METUS KEITĖSI ATGAJOS FESTIVALIO DALYVIAI?", windowWidth/2, windowHeight/4);
+  text("KAIP PER PASKUTINIUS PENKIS METUS KEITĖSI ŠIO SPEKTAKLIO ŽIŪROVAI?", windowWidth/2, windowHeight/4);
   pop();
   push();
   const labelSize = windowHeight / 15;
